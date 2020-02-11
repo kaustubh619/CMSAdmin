@@ -4,6 +4,7 @@ export default {
   //   host: '0.0.0.0', // default: localhost
   // },   //
   mode: "spa",
+  server: {port:5001},
   /*
    ** Headers of the page
    */
